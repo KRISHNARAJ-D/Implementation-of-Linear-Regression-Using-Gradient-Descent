@@ -67,6 +67,7 @@ print(f"Predicted value: {pre}")
 ### data.head()
 
 ![ML HEAD](https://github.com/KRISHNARAJ-D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559695/d12c8f12-975e-4a18-9528-9443a3572d11)
+### DATA SETS
 
 ![ML 3-1](https://github.com/KRISHNARAJ-D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559695/25e9d0c2-c86a-4d0a-a39d-57947436402a)
 
