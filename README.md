@@ -64,7 +64,7 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-## data.head()
+### data.head()
 
 ![ML HEAD](https://github.com/KRISHNARAJ-D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559695/d12c8f12-975e-4a18-9528-9443a3572d11)
 
@@ -73,6 +73,7 @@ print(f"Predicted value: {pre}")
 ![ML 3-2](https://github.com/KRISHNARAJ-D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559695/250d74c0-97f4-4b94-a9be-fa59fec30e35)
 
 ![ML 3-3](https://github.com/KRISHNARAJ-D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559695/d7e9a96f-b515-41bf-a7ba-ac31128f0d0a)
+### PREDICTED VALUE 
 ![PRED ML](https://github.com/KRISHNARAJ-D/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119559695/52ca7cbb-d476-4e47-8bfc-80fe37dca7cb)
 
 ## Result:
